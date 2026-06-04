@@ -262,9 +262,4 @@ footer {
     font-size: 0.9rem;
 }
 
-/* Mobile Responsive */
-@media (max-width: 768px) {
-    .hero h1 { font-size: 2.5rem; }
-    .hero h2 { font-size: 1.2rem; }
-    .nav-links { display: none; /* Add a hamburger menu later if needed */ }
-}
+
